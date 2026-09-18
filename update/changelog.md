@@ -1,5 +1,413 @@
 # Update History
 
+= Version 2.5.2 =
+- Update - Updated bundled plugins to their latest versions.
+- Fix - Related products and upsells appear above the product content when using an Elementor Pro single product template.
+- Fix - Brand line in product meta does not match the format of other meta lines.
+- Fix - Undefined array key warnings in product size guide settings
+
+**Version 2.5.1**
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 2.5.0**
+- Update - Updated bundled plugins to their latest versions.
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 2.4.11**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 2.4.10**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 2.4.9**
+
+**_Theme_**
+- Update - Updated bundled plugins to their latest versions.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 2.4.8**
+
+**_Theme_**
+- Fix – Adjust the adjacent product query to address the change in WordPress 6.9
+
+
+**Version 2.4.7**
+
+**_Theme_**
+- Update - Updated bundled plugins to their latest versions.
+- Fix - Issue with duplicated breadcrumbs.
+- Fix - Issue with the auto-background feature on product pages.
+- Fix - Issue with the page title size on mobile.
+- Fix - Issue with Product Quick View allowing access to private/hidden products.
+
+**Version 2.4.6**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Fixed warning messages in the language switcher.
+
+**Version 2.4.5**
+
+**_Theme_**
+- Fix - Social icons disappear on header
+- Improve - Support SEOPress's breadcrumbs
+
+
+**Version 2.4.4**
+
+**_Theme_**
+- Update - Updated bundled plugins to their latest versions.
+- Fix - Missing scrollbar in the carousel elements
+
+**Version 2.4.3**
+
+**_Theme_**
+- Update - Updated bundled plugins to their latest versions.
+- Update - Updated WooCommerce templates.
+- Fix - Fixed cart item count error.
+- Fix - Updated CSS for new invalid swatches options.
+
+**_Addons Plugin_**
+- Improve - Enhance AJAX search to support SKU of variations.
+
+**Version 2.4.2**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 2.4.1**
+
+**_Theme_**
+- Fix - Resolved the critical error with the theme settings
+
+**Version 2.4.0**
+
+**_Theme_**
+- Update - Updated bundled plugins to their latest versions.
+- Tweak - Replaced the Twitter icon with the X icon.
+- Fix - Resolved layout issues affecting the blog category menu display.
+- Fix - Corrected an issue where the Account icon on the mobile header incorrectly displayed the panel when the panel was disabled.
+- Fix - Removed the warning message of loading theme textdomain too soon.
+
+**_Addons Plugin_**
+- Tweak - Added autoplay option to the Testimonials carousel shortcode.
+- Fix - Resolved the issue of incorrect text alignment setting in the Banner Image widget.
+- Fix - Resolved the issue with product sorting in the Products Tabs widget.
+
+**Version 2.3.20**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 2.3.19**
+
+**_Theme_**
+- Update - Updated bundled plugins
+- Improve - Added support for Shop item in mobile bottom navigation
+- Fix - Fixed layout issue with Elementor Full Width template
+- Fix - Fixed pagination issues in Elementor Pro Slider widget
+- Fix - Fixed non-functioning video page header
+- Fix - Fixed shop page Ajax loading bug that duplicated products when sub-categories were displayed
+
+
+**Version 2.3.18**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Removed unexpected white space at the bottom of the product page.
+- Fix - Resolved issue with typography setting for product title not working as expected.
+
+
+**Version 2.3.17**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 2.3.16**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Improve - Support a new setting to change the map color in template Splitted Content.
+- Fix - Remove warnings of loading textdomain too soon.
+- Fix - Issues with sticky product summary.
+- Fix - Mobile issues of product gallery thumbnails.
+- Fix - Out-of-date templates of WooCommerce.
+
+**_Addons Plugin_**
+- Fix - Warnings with Elementor widgets.
+
+
+**Version 2.3.15**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Quantity dropdown in the side cart does not work.
+- Fix - Layout issues with sticky add-to-cart.
+
+**_Addons Plugin_**
+- Improve - Support Dynamic Actions for buttons in Elementor's widgets.
+- Fix - Warnings of Elementor widgets.
+
+
+**Version 2.3.14**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 2.3.13**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 2.3.12**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Tweak - Improve CSS for the Cart and Checkout blocks.
+- Tweak - Create a new template part file for mobile menu search form.
+- Fix - CSS issues with the compare buttons.
+
+**_Addons Plugin_**
+- Fix - Fix warnings with some Elementor widgets.
+
+
+**Version 2.3.11**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Fix - JS error in the quick view.
+- Fix - Duplicated compare button.
+- Fix - Missing the NEW badge in some situations.
+
+
+**Version 2.3.10**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Improve - Support custom background color for the topbar.
+- Fix - Duplicated page title.
+- Fix - Cannot hide the shop page header.
+- Fix - Notice style.
+
+
+**Version 2.3.9**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Mega menu shows the caret icons.
+
+**_Addons Plugin_**
+- Fix - Icon Box widget displays svg icons with the wrong size and color.
+- Fix - Banner Carousel widget is not draggable on table and mobile devices.
+
+
+**Version 2.3.8**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Fix - Single product navigation links to incorrect products.
+- Fix - Issues with Google fonts.
+- Fix - Out-of-date templates of WooCommerce.
+
+**_Addons Plugin_**
+- Tweak - Products Filter widget now uses category links if possible.
+
+**Version 2.3.7**
+
+**_Addons Plugin_**
+- Fix - The error with the Products Filter widget when enabling the stock filter.
+
+
+**Version 2.3.6**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 2.3.5**
+
+**_Theme_**
+- Tweak - Support up-sell products in the Side Products section of Product layout v7.
+- Fix - Style of notices on the cart and wishlist pages.
+
+
+**Version 2.3.4**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+- Fix - Missing the default size for menu icons.
+
+
+**Version 2.3.3**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Tweak - Update the wishlist icon on header based on plugin's settings.
+- Tweak - Support the new X icon of Twitter (requires URL of domain `x.com`).
+- Tweak - Update style of the WooCommerce notices.
+- Tweak - Update style for cart and checkout blocks.
+- Fix - The mini cart is not updated when the button is clicked on a single product page.
+- Fix - The product panel opens by default.
+- Fix - Mobile bottom bar appears above the cart panel.
+- Fix - Typography settings for custom fonts do not have the "Regular" option.
+
+
+**Version 2.3.2**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Tweak - Disable the popup on maintenance page.
+- Tweak - Correct the spacing between related products inside the carousel.
+- Fix - Hide the comments icon if comments is disabled.
+- Fix - Product tabs automatically open on page load.
+
+
+**Version 2.3.1**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Improve - Support the new element of Custom Text in header builder.
+- Fix - Out-of-date templates of WooCommerce.
+
+**_Addons Plugin_**
+- Fix - Cannot display portfolio page as the frontpage.
+- Fix - Remove warnings of Elementor with deprectated filters.
+- Fix - Remove warnings of the mega menu.
+
+
+**Version 2.3.0**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- New - New mobile bottom menu bar.
+- New - Add a new option to change the product gallery layout on mobile. This update contains some changes in the markup of the product gallery.
+- New - Support a new wishlist plugin which is WCBoost - Wishlist.
+- New - Support a new product comparison plugin which is WCBoost - Products Compare.
+- Improve - Add new options to change the container width of campaign bars.
+- Improve - Improve the accessibility of the sub-menus.
+- Improve - Add a new option to use CSS for sticky product summary.
+- Tweak - Improve Google fonts loading.
+- Tweak - Improve the style of the mini cart widget on the shop sidebar.
+- Fix - Issues with Ajax search results display behind other elements.
+- Fix - Warnings with Instagram feed.
+- Fix - Fix RTL layout issues.
+- Fix - Sticky add-to-cart displays over the footer.
+- Fix - Added-to-cart notifications should not be displayed when there are errors.
+
+**_Addons Plugin_**
+- New - New mega menu builder.
+
+
+**Version 2.2.8**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- New - Add a new option to set the mobile logo dimensions.
+- Tweak - Use the default product thumbnail size for order reviews on the checkout page.
+- Fix - Remove warnings of missing .map files.
+- Fix - The gallery thumbnails are displayed overlapping the below content.
+- Fix - Typography settings for the header are applied in some situations.
+- Fix - Cart fragments are not updated properly.
+- Fix - Out-of-date templates of WooCommerce.
+
+**_Addons Plugin_**
+- Tweak - Allow Youtube iframe in the size guide content.
+- Fix - JS issues with custom carousel widgets of Elementor.
+
+
+**Version 2.2.7**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 2.2.6**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Hidden search results with ajax search
+- Dev - Add a new filter `konte_woocommerce_shop_loop_item_title_tag` to change the product title tag.
+
+**_Addons Plugin_**
+- Fix - Incorrect output of the Instagram widget
+- Fix - Issues of the Products Filter widget with Arabic language
+- Fix - Arrows of carousel widgets stop working
+
+
+**Version 2.2.5**
+
+**_Theme_**
+- Update - Update plugins.
+- Improve - Support center topbar items.
+- Fix - Layout issue with the coming soon page on mobile.
+- Fix - Issues with button color with custom color scheme.
+- Fix - Typography settings do not work properly.
+- Fix - The Discord icon in the social menu does not work with the .gg domains.
+
+
+**Version 2.2.4**
+
+**_Theme_**
+- Update - Update plugins.
+- Fix - Out-of-date templates of WooCommerce.
+
+
+**Version 2.2.3**
+
+**_Theme_**
+- Update - Update plugins.
+- Improve - Support ajax searching for the header search form.
+- Improve - Add a new option to close the quick-view automatically on successful product add to cart.
+- Fix - The option of account icon behavior doesn't work properly.
+- Fix - Cannot open the cart panel automatically.
+- Fix - Some layout issues with RTL languages.
+
+**_Addons Plugin_**
+- Fix - SKU searching doesn't work with ajax requests.
+
+
+**Version 2.2.2**
+
+**_Theme_**
+- Fix - Out-of-date templates of WooCommerce.
+
+**Version 2.2.1**
+
+**_Theme_**
+- New - Add a new option to change the column of products on mobile.
+- Update - Update plugins.
+- Improve - Support the Spotify icon in the social menu.
+- Improve - Minify CSS files to improve loading performance.
+- Fix - The background image of the campaign bars does not display.
+- Fix - The error message with PHP 8.1.
+- Fix - Customizer options are not displayed.
+
+**Version 2.2.0**
+
+**_Theme_**
+- Update - Update bundled plugins.
+- Update - Update included WooCommerce templates.
+- Improve - Support new icons in the social menu: Whatsapp and Email.
+- Fix - Conflict issues with the Jetpack lazyloading images.
+- Fix - RTL issue of the product sorting dropdown.
+
+**_Addons Plugin_**
+- Improve - Make the Products Filter widget supports custom stock status of extensions.
 
 **Version 2.1.9**
 
